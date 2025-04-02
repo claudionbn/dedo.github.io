@@ -53,10 +53,7 @@ footer{
 }
 
 @media (max-width: 768px) {
-    header h1 {
-        font-size: 3%;
-    }
-
+    
     .div_img{
         width: 80%; 
     }
