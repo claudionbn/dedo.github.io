@@ -1,6 +1,9 @@
 body{
-        background: linear-gradient(135deg, #2cb8b2, #70399a);
+    background: linear-gradient(135deg, #2cb8b2, #70399a);
+    color: white;
 }
+
+
 header, footer {
     display: flex;
     flex-direction:column;
